@@ -7,7 +7,7 @@ body {
 .header {
   width: 100%;
   text-align: center;
-  margin-top: 1rem;
+  margin-top: 50px;
 }
 
 .header-title {
@@ -47,6 +47,7 @@ p {
   grid-column: 1fr;
   width: 85%;
   max-height: 50%;
+  padding-top: 30px;
   margin: auto;
 }
 
